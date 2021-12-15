@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/mask_counter/BuildConfig.java
+ com.example.mask_counter.BuildConfig
